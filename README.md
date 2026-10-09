@@ -54,11 +54,11 @@ This mod has been tested with **All the Mods 11 (ATM11) version 0.9.0-beta** and
 
 If you are using this addon, check out the other projects adapted for Minecraft 26.1.2:
 
-### ⚙️ [Mekanism: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-version-locked/preview) — The main Mekanism port for Minecraft 26.1.2
+### ⚙️ [Mekanism: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-version-locked) — The main Mekanism port for Minecraft 26.1.2
 
-### 🛠️ [Mekanism Tools: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools-version-locked/preview) — Additional tools, weapons, and armor content adapted for Minecraft 26.1.2
+### 🛠️ [Mekanism Tools: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools-version-locked) — Additional tools, weapons, and armor content adapted for Minecraft 26.1.2
 
-### 🧩 [Mekanism Additions: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions-version-locked/preview) — Additional content and features for Mekanism, adapted for Minecraft 26.1.2
+### 🧩 [Mekanism Additions: Version Locked](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions-version-locked) — Additional content and features for Mekanism, adapted for Minecraft 26.1.2
 
 > **Important:** These projects are also unofficial community-made ports and may contain bugs or compatibility issues.
 
